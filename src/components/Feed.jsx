@@ -6,7 +6,7 @@ import { fetchFromAPI } from "../utils/fetchFromAPI";
 const Feed = () => {
   const [selectedCategory, setSelectedCategory] = useState("New");
   const [videos, setVideos] = useState([])
-
+  
   // useEffect is a lifecycle hooks that gets called when components is initially loads
   useEffect(() => {
     fetchFromAPI(`search?part=snippet&q=${selectedCategory}`)
@@ -53,7 +53,7 @@ const Feed = () => {
               color: "#F31503",
             }}
           >
-            videos
+            Videos
           </span>
         </Typography>
 
