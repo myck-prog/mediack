@@ -1,6 +1,5 @@
 # Getting Started with Create React App
-This project is hosted here https://effortless-youtiao-9133dc.netlify.app/
-
+This project is hosted in https://mediack.netlify.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
