@@ -1,5 +1,6 @@
 # Mediack 
-<img width="1300" alt="Screen Shot 2023-01-18 at 3 01 52 PM" src="https://user-images.githubusercontent.com/91393229/213584609-1fa4df42-7f4e-49af-96f9-49145f76a947.png">
+
+![Screen Shot 2023-01-19 at 3 34 39 PM](https://user-images.githubusercontent.com/91393229/213585643-f8317053-8325-4429-a254-4f633d8a9e93.png)
 
 
 
@@ -11,7 +12,7 @@ This website provided a real-time update in a dynamic webiste with
 - searching functionality  
 - play youtube video right on the website 
 - view channel info just like youtube
-- static thumbnail that works!
+- scrollable thumbnail that works!
 - responsive design in all platform
 - [more!](https://mediack.netlify.app/)
 
