@@ -16,12 +16,12 @@ This website provided a real-time update in a dynamic webiste with
 - responsive design in all platform
 - [more!](https://mediack.netlify.app/)
 
-## Acknowledgement 
+### Acknowledgement 
 Javascript Mastery Video has helped me in utilizing material ui. 
 
 ### Tech Stack
 - ReactJS, Material UI, Rapid API
-- Vercel
+
 ### Gallery
 
 <img width="1440" alt="Screen Shot 2023-01-18 at 3 03 03 PM" src="https://user-images.githubusercontent.com/91393229/213584507-87be7c46-2c1d-4be5-9be7-510bba49a662.png">
