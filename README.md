@@ -21,6 +21,7 @@ Javascript Mastery Video has helped me in utilizing material ui.
 
 ### Tech Stack
 - ReactJS, Material UI, Rapid API
+- Netlify Deployment
 
 ### Gallery
 
